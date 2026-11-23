@@ -1,0 +1,1476 @@
+PRO DNZ FINTECH
+
+ULTIMATE MASTER BUILD COMMAND
+
+COMPLETE DIGITAL BANKING PLATFORM – DESIGN, DEVELOPMENT, BACKEND, MOBILE, DESKTOP, SECURITY AND PRODUCTION
+
+⸻
+
+0. EN ÖNEMLİ TALİMAT: NE İNŞA EDECEKSİN?
+
+Senin görevin PRO DNZ FINTECH için yalnızca bir web sayfası, gösterim ekranı, dashboard taslağı veya birkaç mobil ekran hazırlamak değildir.
+
+Sen profesyonel bir dijital bankacılık ve finans teknolojileri platformunun tamamını tasarlayacak ve geliştireceksin.
+
+İstediğim sonuç; Revolut, Wise ve modern dijital bankacılık uygulamalarının kullanım kalitesine, tasarım düzenine ve profesyonel deneyimine sahip, ancak PRO DNZ FINTECH markasına ait özgün bir uygulamadır.
+
+Bu proje tek bir bütün olarak geliştirilecek.
+
+Bütün ekranlar, butonlar, menüler, müşteri hesapları, finansal modüller, kartlar, POS sistemleri, yönetim paneli, çalışan panelleri, veritabanı ve sunucu altyapısı aynı mimarinin parçaları olacak.
+
+Sadece tasarım üretme. Gerçek uygulama kodunu, frontend’i, backend’i, veritabanını, API bağlantılarını, güvenlik sistemini ve dağıtım altyapısını geliştir.
+
+Önce mevcut projeyi incele. Mevcut kodu, tasarımı ve modülleri değerlendir. Sonra dağınık yapıyı düzelt ve aşağıdaki şartlara uygun tek bir bütünsel ürün oluştur.
+
+Önemli: Bu talimatta geçen Production, gerçek finansal işlem ve banka hizmetleri, gerekli lisanslar, sözleşmeler, banka/ödeme kuruluşu bağlantıları ve sağlayıcı onayları tamamlanmadan aktif gösterilmeyecek.
+
+⸻
+
+1. MARKA VE TASARIM KİMLİĞİ
+
+Uygulamanın adı:
+
+PRO DNZ FINTECH
+
+Marka karakteri:
+
+* Profesyonel
+* Premium
+* Modern
+* Güvenilir
+* Uluslararası
+* Minimalist
+* Teknolojik
+* Lüks dijital bankacılık
+
+Tasarım dili:
+
+* Revolut seviyesinde profesyonel kullanıcı deneyimi.
+* Modern fintech uygulamalarındaki sade navigasyon.
+* Büyük ve okunabilir finansal değerler.
+* Dengeli boşluk kullanımı.
+* Şık kart bileşenleri.
+* Profesyonel ikonlar.
+* Akıcı animasyonlar.
+* Tutarlı renk sistemi.
+* Gerçek bir finans uygulamasının görsel hiyerarşisi.
+
+Renk sistemi:
+
+* Ana renk: koyu siyah ve antrasit.
+* Yardımcı renk: beyaz.
+* Vurgu rengi: sofistike pembe.
+* Premium detaylar: altın.
+* Başarı: kontrollü yeşil.
+* Uyarı: turuncu.
+* Hata: kırmızı.
+
+Renkleri her ekranda rastgele değiştirme. Merkezi bir design system oluştur.
+
+Logo:
+PRO DNZ FINTECH için modern, profesyonel, özgün bir logo kullan.
+
+Logo, uygulamanın bütün ekranlarında aynı marka kimliğiyle yer alsın. Logo yerine rastgele ikon, emoji veya yazı karakteri kullanma.
+
+Tipografi:
+
+* Modern sans-serif yazı tipi.
+* Okunaklı finansal rakamlar.
+* Tutarlı başlık ve açıklama hiyerarşisi.
+* Para miktarları için tabular numerals.
+* Mobil ekranlarda rahat okunabilir font boyutları.
+
+Bütün ikonlar tek bir profesyonel ikon setinden seçilsin. Bir yerde emoji, başka yerde rastgele SVG, başka yerde farklı ikon stili kullanma.
+
+⸻
+
+2. EN ÖNEMLİ TASARIM ŞARTI: GERÇEK MOBİL UYGULAMA DENEYİMİ
+
+Mevcut tasarımın en büyük problemi mobil uygulama gibi görünmemesidir.
+
+Bunu tamamen düzelt.
+
+Mobil görünüm, masaüstü sayfasının küçültülmüş hali olmayacak.
+
+Önce mobil uygulama deneyimini tasarla. Daha sonra aynı sistemi masaüstüne uyarlayarak geliştir.
+
+2.1 Mobil uygulama
+
+Telefon ekranında:
+
+* Tam ekran uygulama deneyimi.
+* Üstte profesyonel uygulama başlığı.
+* Kullanıcı profil alanı.
+* Bildirim ikonu.
+* Ana bakiye alanı.
+* Hesap ve kart özetleri.
+* Hızlı işlem butonları.
+* Modern alt navigasyon çubuğu.
+* Dokunmatik kullanıma uygun büyük butonlar.
+* Mobil kart ve işlem listeleri.
+* Akıcı sayfa geçişleri.
+* Bottom sheet ve modal yapıları.
+* Mobil ekranlarda yatay taşma olmaması.
+
+Alt navigasyon:
+
+1. Home
+2. Cards
+3. Payments
+4. Insights
+5. Profile
+
+Gerekli diğer modüllere menü veya ilgili ekranlardan erişim sağla.
+
+Mobil uygulamanın görünümü bir banka uygulaması gibi olmalı; klasik web sitesi gibi görünmemeli.
+
+2.2 Masaüstü uygulaması
+
+Bilgisayarda açıldığında mobil tasarımı yalnızca büyütme.
+
+Masaüstüne özel bir düzen oluştur:
+
+* Sol tarafta sabit navigasyon menüsü.
+* Üstte arama ve kullanıcı alanı.
+* Ortada geniş içerik alanı.
+* Sağ tarafta gerektiğinde hesap, işlem ve bildirim özetleri.
+* Geniş tablolar.
+* Profesyonel grafikler.
+* Çoklu hesap görünümü.
+* Yönetim ve finans raporları.
+* Masaüstüne uygun modal ve işlem pencereleri.
+
+Masaüstü navigasyonu:
+
+1. Overview
+2. Accounts
+3. Payments
+4. Cards
+5. Transfers
+6. Exchange
+7. Loans
+8. Savings
+9. Business
+10. POS & Merchants
+11. Analytics
+12. Security
+13. Support
+14. Settings
+
+Yönetici ve çalışan panelleri için ayrıca masaüstü odaklı yönetim düzeni oluştur.
+
+2.3 Tablet
+
+Tabletlerde ekran genişliğine göre mobil ve masaüstü düzenleri arasında akıllı geçiş yap.
+
+2.4 Teknik uygulama
+
+Responsive breakpoints, adaptive navigation ve reusable components kullan.
+
+Gerekli olduğunda PWA desteği ekle:
+
+* Ana ekrana yükleme.
+* Uygulama ikonu.
+* Splash screen.
+* Uygulama benzeri açılış.
+* Güvenli oturum.
+* Güncelleme yönetimi.
+
+Gerçek iOS ve Android mağaza uygulaması hedefleniyorsa ayrı native paketleme ve yayınlama hazırlığını da mimaride destekle. PWA’yı native mağaza uygulamasıymış gibi tanıtma.
+
+⸻
+
+3. TASARIMI GELİŞTİRME ŞEKLİ
+
+Bütün sayfaları aynı tasarım sistemine göre oluştur.
+
+Her sayfada:
+
+* Aynı başlık sistemi.
+* Aynı buton sistemi.
+* Aynı kart tasarımı.
+* Aynı ikon sistemi.
+* Aynı boşluk ölçüleri.
+* Aynı renk kuralları.
+* Aynı modal yapısı.
+* Aynı bildirim sistemi.
+
+Reusable component mimarisi kur.
+
+Örneğin:
+
+* PrimaryButton
+* SecondaryButton
+* AccountCard
+* BalanceCard
+* TransactionItem
+* BankCard
+* PaymentCard
+* NavigationBar
+* Sidebar
+* TopHeader
+* NotificationPanel
+* UserProfileMenu
+* SecurityDialog
+* ConfirmationModal
+* DataTable
+* EmptyState
+* LoadingState
+* ErrorState
+
+Rastgele buton üretme.
+
+Her butonun:
+
+* Ne yaptığı belli olmalı.
+* Tıklanınca gerçek bir işlem gerçekleştirmeli.
+* Gerekirse onay istemeli.
+* İşlem sonucunu kullanıcıya göstermeli.
+* Hata durumunu yönetmeli.
+
+Çalışmayan görsel buton bırakma.
+
+⸻
+
+4. ANA EKRAN – HOME / OVERVIEW
+
+Ana ekran uygulamanın en profesyonel ekranı olacak.
+
+Şu bileşenleri içersin:
+
+1. Kullanıcı karşılama alanı.
+2. Toplam hesap bakiyesi.
+3. Bakiye gizleme/gösterme.
+4. Ana hesap.
+5. Çoklu para birimi hesapları.
+6. IBAN bilgileri.
+7. Kartların hızlı görünümü.
+8. Son işlemler.
+9. Para gönder.
+10. Para al.
+11. Kart ekle.
+12. Kartları yönet.
+13. Para birimi değiştir.
+14. Hesap hareketleri.
+15. Harcama analizi.
+16. Bekleyen işlemler.
+17. Bildirimler.
+18. Güvenlik durumu.
+19. Kısayollar.
+20. Destek.
+
+Ana ekran gerçek kullanıcı verisini backend üzerinden yüklemeli.
+
+Henüz gerçek veri bulunmuyorsa örnek verileri açıkça TEST olarak işaretle. Sahte veriyi gerçek müşteri bakiyesi gibi gösterme.
+
+⸻
+
+5. HESAPLAR VE CÜZDAN SİSTEMİ
+
+Kullanıcılar farklı hesaplara sahip olabilmeli.
+
+Hesap türleri:
+
+* Personal Account
+* Business Account
+* Multi-Currency Account
+* Savings Account
+* Joint Account
+* Corporate Account
+
+Desteklenecek para birimleri:
+
+* EUR
+* USD
+* GBP
+* CHF
+* TRY
+* SAR
+* AED
+* Diğer desteklenen para birimleri.
+
+Her hesapta:
+
+* Hesap numarası.
+* IBAN, uygun olduğunda.
+* Para birimi.
+* Kullanılabilir bakiye.
+* Muhasebe bakiyesi.
+* Bloke tutar.
+* Bekleyen tutar.
+* İşlem geçmişi.
+* Hesap durumu.
+
+Bakiye hesaplamaları merkezi ledger sisteminden gelsin.
+
+Kullanıcının ekranında gösterilen bakiye ile muhasebe kayıtları arasında tutarsızlık oluşmasına izin verme.
+
+⸻
+
+6. CORE BANKING ENGINE
+
+Platformun merkezinde Core Banking Engine bulunmalı.
+
+Bütün finansal modüller bu merkezi motorla çalışmalı.
+
+Alt sistemler:
+
+* Customer Accounts
+* Wallet Engine
+* Ledger Engine
+* Balance Engine
+* Payment Engine
+* Transfer Engine
+* Card Engine
+* Settlement Engine
+* Reconciliation Engine
+* Fee Engine
+* FX Engine
+* Reporting Engine
+
+Finansal işlemler için çift taraflı muhasebe (double-entry ledger) uygula.
+
+Her finansal işlemde:
+
+* İşlem ID.
+* Gönderen hesap.
+* Alıcı hesap.
+* Tutar.
+* Para birimi.
+* İşlem ücreti.
+* İşlem durumu.
+* Tarih.
+* Zaman.
+* Referans numarası.
+* İşlem kaynağı.
+* Yetkilendirme kaydı.
+
+tutulsun.
+
+Ledger kayıtları geriye dönük silinerek veya değiştirilerek manipüle edilemesin. Düzeltmeler ters kayıt ve yeni kayıtla yapılsın.
+
+Idempotency, transaction kontrolü, mutabakat ve audit trail zorunlu olsun.
+
+⸻
+
+7. MERKEZİ MÜŞTERİ FONLARI VE FON HAVUZU
+
+Merkezi fon altyapısı oluştur.
+
+Ancak müşteri fonlarını şirketin kendi parası gibi kullanma.
+
+Ayrı fon kategorileri:
+
+A. Safeguarded Customer Funds
+B. Company Operational Funds
+C. Card Settlement Funds
+D. Payment Settlement Funds
+E. Credit/Lending Funds
+F. Treasury and Liquidity
+G. Fees and Commissions
+
+Müşteri fonları için:
+
+* Merkezi muhasebe kayıtları.
+* Müşteri bazlı alt hesaplar.
+* Ayrı müşteri bakiyeleri.
+* Mutabakat.
+* Günlük raporlama.
+* Çekilebilir bakiye kontrolü.
+* Bloke ve bekleyen tutarlar.
+
+oluştur.
+
+Merkezi fon hesabı ile müşterinin kişisel ledger bakiyesi birbirinden ayrılmalı.
+
+Müşteri fonlarının korunması için uygun safeguarding ve ayrıştırma yapısını uygula. Gerçek fon saklama ve hareket ettirme yalnızca yetkili kuruluş ve banka bağlantıları üzerinden gerçekleşsin.
+
+⸻
+
+8. BANKA KARTLARI – VISA / MASTERCARD / TROY
+
+Profesyonel kart yönetim sistemi oluştur.
+
+Kart şemaları:
+
+* Visa
+* Mastercard
+* TROY
+
+Kart ürünleri:
+
+* Debit Card
+* Credit Card
+* Prepaid Card
+* Virtual Card
+* Physical Card
+* Business Card
+* Corporate Card
+* Premium Card
+* Additional Card
+
+Kart yönetim ekranında:
+
+* Kart görseli.
+* Kart sahibinin adı.
+* Kartın son dört hanesi.
+* Kart şeması.
+* Kart türü.
+* Kart durumu.
+* Son kullanma tarihi.
+* Harcama limiti.
+* Günlük limit.
+* Online ödeme ayarı.
+* Temassız ödeme ayarı.
+* ATM ayarı.
+* Kart dondurma.
+* Kart açma.
+* Kart kapatma.
+* PIN yönetimi.
+* Yeni kart başvurusu.
+* Kart yenileme.
+* Kart teslimat takibi.
+
+Kart numarası ve CVV gibi hassas bilgiler güvenli kart sağlayıcısı veya PCI DSS uyumlu altyapı üzerinden yönetilmeli. Hassas kart bilgilerini uygulama veritabanına açık şekilde kaydetme.
+
+Visa, Mastercard ve TROY logolarını yalnızca kullanım hakkı ve ilgili program onayı bulunan durumlarda kullan.
+
+Gerçek kart çıkarma için issuer/BIN sponsor, işlemci, kart ağı ve gerekli program onaylarını entegre et.
+
+Sadece tasarım oluşturmak, gerçek Visa, Mastercard veya TROY kartı çıkarmış olmak anlamına gelmez.
+
+⸻
+
+9. ATM MANAGEMENT
+
+ATM yönetim modülü oluştur.
+
+Özellikler:
+
+* ATM listesi.
+* ATM konumu.
+* ATM durumu.
+* Para çekme.
+* Bakiye sorgulama.
+* İşlem geçmişi.
+* ATM limitleri.
+* ATM ücretleri.
+* Kart doğrulama.
+* ATM hata ve bakım kayıtları.
+
+Gerçek ATM işlemleri yetkili ATM ağı ve banka bağlantısı üzerinden yürütülsün.
+
+⸻
+
+10. PARA TRANSFERLERİ
+
+Transfer modülünü profesyonel olarak oluştur.
+
+Transfer türleri:
+
+* Internal Transfers
+* SEPA Transfers
+* SEPA Instant
+* International Transfers
+* SWIFT Transfers
+* Bank Transfers
+* Business Transfers
+* Scheduled Transfers
+* Recurring Transfers
+
+Transfer ekranında:
+
+* Alıcı seçimi.
+* IBAN.
+* BIC/SWIFT.
+* Banka bilgileri.
+* Tutar.
+* Para birimi.
+* İşlem ücreti.
+* Tahmini ulaşma süresi.
+* Açıklama.
+* Onay ekranı.
+* İşlem makbuzu.
+
+Gerçek transferler yalnızca yetkili banka veya ödeme kuruluşu API’leri üzerinden gerçekleştirilsin.
+
+SWIFT MT103, MT202 ve ISO 20022 mesajları yalnızca gerçek ve doğrulanmış banka/ödeme sağlayıcısı kayıtlarından işlensin.
+
+Sahte transfer onayı, sahte SWIFT mesajı, sahte ödeme kanıtı veya sahte fon yükleme sistemi oluşturma.
+
+⸻
+
+11. PARA BİRİMİ DEĞİŞİMİ – FX
+
+Profesyonel döviz ekranı oluştur.
+
+Özellikler:
+
+* Döviz çiftleri.
+* Alış kuru.
+* Satış kuru.
+* Kullanılan kur kaynağı.
+* İşlem ücreti.
+* Dönüştürülecek tutar.
+* Alınacak tutar.
+* İşlem onayı.
+* FX geçmişi.
+
+Kurlar güvenilir veri sağlayıcılarından alınsın.
+
+Gerçek dönüşüm işlemleri sağlayıcı entegrasyonu ve hesap mutabakatı ile gerçekleştirilsin.
+
+⸻
+
+12. SAVINGS AND DEPOSIT PRODUCTS
+
+Tasarruf ve mevduat ürünleri için modül oluştur.
+
+* Savings Accounts
+* Fixed-Term Deposits
+* Flexible Savings
+* Interest Calculations
+* Deposit History
+* Withdrawal Requests
+* Maturity Dates
+* Statements
+
+Faiz ve getiri oranları yalnızca gerçekten sunulabilen ve yasal olarak onaylanmış ürünlere göre gösterilsin.
+
+Mevduat sigortası veya garanti kapsamı hakkında gerçekte bulunmayan taahhüt verme.
+
+⸻
+
+13. LOANS AND CREDIT MANAGEMENT
+
+Kredi modülü oluştur.
+
+* Personal Loan
+* Business Loan
+* Credit Card
+* Credit Line
+* Loan Application
+* Credit Assessment
+* Repayment Schedule
+* Installments
+* Outstanding Balance
+* Early Repayment
+* Loan History
+
+Başvuru ekranları, belge yükleme, gelir değerlendirme ve ödeme planı özellikleri geliştir.
+
+Kredi kullandırma, yetkili banka veya finansman kuruluşu üzerinden yürütülsün.
+
+Lisans ve uygun sözleşme olmadan doğrudan kredi kullandırma veya onaylanmış kredi gibi gösterim yapma.
+
+Müşteri koruma fonları kredi finansmanı için kullanılmasın.
+
+⸻
+
+14. BUSINESS BANKING
+
+İşletmelere özel bankacılık modülü oluştur.
+
+* Business Accounts
+* Company IBAN
+* Multiple Users
+* Employee Permissions
+* Corporate Cards
+* Payment Approval
+* Bulk Payments
+* Invoices
+* Business Statements
+* Cash Flow
+* Business Analytics
+* Company Documents
+
+İşletme yöneticisi çalışanlarını ekleyebilmeli ve yetki verebilmeli.
+
+Bir çalışan yalnızca kendisine verilen izinlerle işlem yapabilmeli.
+
+⸻
+
+15. POS AND MERCHANT MANAGEMENT
+
+Profesyonel POS ve üye işyeri sistemi oluştur.
+
+Modüller:
+
+* Merchant Registration
+* Merchant Verification
+* POS Terminal Management
+* Terminal Assignment
+* Merchant Accounts
+* Payment Collection
+* Card Payments
+* Contactless Payments
+* Chip & PIN
+* QR Payments
+* Online Payments
+* Refunds
+* Reversals
+* Chargebacks
+* Settlement
+* Transaction Reports
+* Merchant Dashboard
+* Remote Terminal Management
+
+POS cihazları işletme ve üye işyeri hesaplarına bağlanmalı.
+
+POS işlem sonuçları ve uygun şekilde kullanılabilir bakiyeler merkezi sistemde güncellenmeli.
+
+Offline işlemler sadece acquiring sağlayıcısının desteklediği, limit ve risk kurallarına uygun koşullarda gerçekleştirilsin.
+
+POS terminali gerçek ödeme alabilmek için sertifikalı donanım, acquiring anlaşması, işlemci ve gerekli ağ onaylarına ihtiyaç duyar.
+
+⸻
+
+16. PAYMENT GATEWAY
+
+Online ödeme altyapısı oluştur.
+
+* Payment Links
+* Hosted Checkout
+* E-commerce API
+* Card Payments
+* 3D Secure
+* Refund Management
+* Payment Status
+* Webhooks
+* Settlement
+* Merchant Reporting
+
+Kart bilgilerini güvenli ödeme sağlayıcısına yönlendir.
+
+3DS/SCA ve sağlayıcı güvenlik gerekliliklerini uygula.
+
+⸻
+
+17. QR PAYMENTS AND BILL PAYMENTS
+
+* QR Code Payments
+* Scan and Pay
+* Payment Requests
+* Utility Bills
+* Subscription Payments
+* Direct Debit
+* Recurring Payments
+* Invoice Payments
+
+Bütün işlemler gerçek ödeme sağlayıcısı bağlantıları ve yetkilendirme üzerinden yürütülsün.
+
+⸻
+
+18. MEMBERSHIP AND PREMIUM PACKAGES
+
+Üyelik sistemi oluştur.
+
+Paketler:
+
+* Standard
+* Silver
+* Gold
+* Platinum
+* Black
+* Business
+* Corporate
+
+Her paketin:
+
+* Ücretlendirmesi.
+* İşlem limitleri.
+* Kart özellikleri.
+* Transfer ücretleri.
+* Döviz avantajları.
+* Destek seviyesi.
+* Kullanıcı izinleri.
+
+merkezi yönetim panelinden kontrol edilebilsin.
+
+Henüz tanımlanmamış avantajları varmış gibi gösterme.
+
+⸻
+
+19. OPEN BANKING AND API MARKETPLACE
+
+* Open Banking
+* Account Information
+* Payment Initiation
+* API Management
+* API Keys
+* Webhooks
+* Integration Logs
+* Developer Dashboard
+* Sandbox Environment
+* Production Environment
+
+Yalnızca yetkili ve sözleşmeli sağlayıcılarla entegrasyon gerçekleştir.
+
+API anahtarları güvenli saklansın.
+
+⸻
+
+20. AI FINANCIAL ASSISTANT
+
+Uygulamanın içerisinde AI destekli finans asistanı oluştur.
+
+Özellikler:
+
+* Harcama analizi.
+* Gelir-gider özeti.
+* Bütçe planlama.
+* Finansal rapor açıklama.
+* İşlem kategorilendirme.
+* Şüpheli işlem uyarısı.
+* Kullanıcı sorularına cevap.
+* Finansal bildirimler.
+
+AI asistanı kullanıcının izni ve yetkisi olmayan hesap verilerini görmemeli.
+
+Kendi başına finansal işlem gerçekleştirmemeli. Kritik işlemlerde kullanıcı onayı zorunlu olmalı.
+
+⸻
+
+21. KYC / KYB / AML / FRAUD PREVENTION
+
+Güvenlik ve uyum modülü oluştur.
+
+* KYC.
+* KYB.
+* Kimlik doğrulama.
+* Adres doğrulama.
+* Belge doğrulama.
+* PEP Kontrolü.
+* Sanctions Screening.
+* AML Monitoring.
+* Transaction Monitoring.
+* Fraud Detection.
+* Risk Scoring.
+* Suspicious Activity Alerts.
+* Compliance Case Management.
+
+Müşteri belgeleri şifreli ve erişim kontrollü saklansın.
+
+Riskli işlemler uygun kurallara göre incelensin.
+
+⸻
+
+22. CUSTOMER SUPPORT
+
+* Live Chat.
+* Support Tickets.
+* Help Center.
+* FAQ.
+* Complaint Management.
+* Account Assistance.
+* Card Assistance.
+* Payment Disputes.
+* Document Requests.
+
+Müşteri destek çalışanları yalnızca kendilerine izin verilen müşteri bilgilerine erişebilsin.
+
+⸻
+
+23. FINANCIAL REPORTING AND ACCOUNTING
+
+* Account Statements.
+* Transaction Reports.
+* Daily Reports.
+* Monthly Reports.
+* Annual Reports.
+* Revenue Reports.
+* Fee Reports.
+* Settlement Reports.
+* Reconciliation.
+* Ledger Reports.
+* Merchant Reports.
+* Risk Reports.
+* Compliance Reports.
+
+PDF, CSV ve Excel dışa aktarma özellikleri oluştur.
+
+Raporlar merkezi veritabanındaki gerçek kayıtlarla tutarlı olsun.
+
+⸻
+
+24. SUPER ADMIN PLATFORM
+
+Ayrı ve profesyonel Super Admin paneli oluştur.
+
+Super Admin ekranları:
+
+1. Overview
+2. Customers
+3. Businesses
+4. Employees
+5. Accounts
+6. Wallets
+7. Central Funds
+8. Ledger
+9. Cards
+10. Visa Programs
+11. Mastercard Programs
+12. TROY Programs
+13. ATM
+14. POS
+15. Merchants
+16. Transfers
+17. Payments
+18. FX
+19. Loans
+20. Savings
+21. Memberships
+22. KYC/KYB
+23. AML
+24. Fraud Monitoring
+25. Compliance
+26. Settlements
+27. Reconciliation
+28. Reports
+29. API Integrations
+30. Provider Management
+31. Roles and Permissions
+32. Audit Logs
+33. System Settings
+34. Cloud Infrastructure
+35. Security Monitoring
+
+Yönetici panelinde her modülün çalışma durumu görüntülensin.
+
+Super Admin işlemleri de kayıt altına alınsın.
+
+⸻
+
+25. EMPLOYEE AND ROLE MANAGEMENT
+
+Roller:
+
+* Super Administrator
+* System Administrator
+* Finance Administrator
+* Compliance Officer
+* AML Officer
+* Risk Manager
+* Branch Manager
+* Customer Support
+* Business Manager
+* Merchant
+* Auditor
+* Individual Customer
+* Corporate Customer
+
+RBAC ve gerektiğinde ABAC uygula.
+
+Yetkiler backend tarafında doğrulansın.
+
+Kritik işlemlerde çift onay sistemi kullanılabilsin.
+
+⸻
+
+26. TEK MERKEZLİ CLOUD BACKEND
+
+Uygulama sadece Google AI Studio önizleme ortamında çalışmamalı.
+
+Google AI Studio geliştirme aracı olarak kullanılabilir. Ancak gerçek uygulamanın bağımsız, sürekli çalışan ve kalıcı bir production backend’i olmalı.
+
+Aşağıdaki mimariyi kur:
+
+* Frontend Application
+* Central Backend API
+* Authentication Service
+* Persistent Database
+* Core Banking Engine
+* Ledger Service
+* Payment Orchestration
+* Real-Time Event Service
+* Notification Service
+* File Storage
+* Audit Service
+* Monitoring
+* Backup and Recovery
+
+Tek bir merkezi veri kaynağı kullan.
+
+Veritabanı teknolojisi olarak uygun bir production ilişkisel veritabanı tercih et. PostgreSQL uygun bir seçenektir.
+
+Backend için güvenli ve ölçeklenebilir bir mimari kur.
+
+Bütün finansal veriler sunucu tarafında doğrulansın.
+
+Tarayıcı belleği, localStorage veya geçici AI Studio verileri finansal kayıtların ana kaynağı olmasın.
+
+⸻
+
+27. GERÇEK ZAMANLI SENKRONİZASYON
+
+Bütün cihazlar aynı merkezi sistemle çalışmalı.
+
+Örnek:
+
+* Bir yönetici bilgisayardan müşteri oluşturduğunda diğer yetkili ekranlarda güncel kayıt görünmeli.
+* Bir müşteri telefonundan profilini değiştirdiğinde yönetim paneli güncellenmeli.
+* Kart dondurulduğunda kart durumu ilgili ekranlara yansımalı.
+* Gerçek bir ödeme sağlayıcısından doğrulanan işlem geldiğinde ledger ve işlem ekranları güncellenmeli.
+* POS işlemi doğrulandığında ilgili merchant hesabı ve raporlar güncellenmeli.
+
+WebSocket, Server-Sent Events veya uygun gerçek zamanlı veri altyapısı kullan.
+
+Bağlantı kesilirse otomatik yeniden bağlanma uygula.
+
+Aynı anda yapılan değişikliklerde veri çakışmasını önle.
+
+İşlem geçmişi ve finansal kayıtlar merkezi veritabanından gelsin.
+
+⸻
+
+28. HER KULLANICIYA ÖZEL GÜVENLİ ALAN
+
+Bütün kullanıcılar kendi hesaplarıyla giriş yapmalı.
+
+Kullanıcı türleri:
+
+* Personal
+* Business
+* Corporate
+* Employee
+* Merchant
+* Administrator
+
+Her kullanıcının ayrı kimliği, oturumu ve yetki alanı bulunmalı.
+
+Bir müşterinin bilgileri başka müşteriye gösterilmemeli.
+
+Tenant izolasyonu hem API hem veritabanı seviyesinde sağlanmalı.
+
+Gerekli yerlerde PostgreSQL Row Level Security kullan.
+
+Kimlik doğrulama:
+
+* MFA.
+* Passkeys desteği.
+* Secure Sessions.
+* Refresh Token Rotation.
+* Device Management.
+* Session Revocation.
+* Rate Limiting.
+* Brute Force Protection.
+
+⸻
+
+29. GLOBAL DATABASE ARCHITECTURE
+
+Merkezi veritabanında uygun tabloları ve ilişkileri oluştur.
+
+Örnek ana veri modelleri:
+
+* users
+* customers
+* businesses
+* employees
+* tenants
+* roles
+* permissions
+* accounts
+* wallets
+* balances
+* ledger_entries
+* transactions
+* transfers
+* cards
+* card_programs
+* merchants
+* pos_terminals
+* payments
+* settlements
+* refunds
+* chargebacks
+* fx_rates
+* loans
+* repayments
+* savings_products
+* memberships
+* kyc_records
+* kyb_records
+* aml_cases
+* fraud_alerts
+* notifications
+* documents
+* providers
+* webhooks
+* api_keys
+* audit_logs
+* support_tickets
+* system_events
+
+Veritabanı ilişkilerini ve indekslerini doğru oluştur.
+
+Migration sistemi kur.
+
+Silinmemesi gereken finansal kayıtları koru.
+
+⸻
+
+30. MULTI-BANK ARCHITECTURE
+
+Birden fazla banka, ödeme kuruluşu ve finansal sağlayıcıyla çalışabilecek bir entegrasyon sistemi oluştur.
+
+* Provider Registry.
+* Provider API Adapters.
+* Bank Account Connections.
+* Payment Routing.
+* Provider Health.
+* Provider Webhooks.
+* Settlement Reconciliation.
+* Integration Logs.
+
+Gerçek sağlayıcı bağlantısı olmayan hizmetleri aktif gibi gösterme.
+
+⸻
+
+31. WHITE-LABEL BANKING
+
+Gelecekte farklı şirketlerin kendi markalarıyla platformu kullanabilmesini sağlayacak mimari hazırla.
+
+Her tenant için:
+
+* Logo.
+* Renkler.
+* Alan adı.
+* Kullanıcılar.
+* Ürünler.
+* Yetkiler.
+* Sağlayıcı bağlantıları.
+* Raporlar.
+
+ayrı yönetilebilsin.
+
+Bir tenant diğer tenantın verilerine erişemesin.
+
+⸻
+
+32. GLOBAL MERCHANT NETWORK
+
+Farklı ülkelerdeki işletmelerin sisteme kayıt olabileceği mimari oluştur.
+
+* Merchant Onboarding.
+* Merchant Verification.
+* Country Configuration.
+* Currency Support.
+* POS Assignment.
+* Settlement.
+* Merchant Analytics.
+* Business Statements.
+
+⸻
+
+33. TREASURY MANAGEMENT
+
+Şirketin kendi likiditesi ve operasyonel finansmanı için ayrı treasury modülü oluştur.
+
+* Liquidity Monitoring.
+* Operational Reserves.
+* Settlement Forecast.
+* Provider Balances.
+* Cash Flow.
+* Currency Exposure.
+* Reconciliation.
+
+Müşteri fonları ile şirketin operasyonel varlıkları kesinlikle karıştırılmasın.
+
+⸻
+
+34. GLOBAL SECURITY
+
+* HTTPS/TLS.
+* Encryption at Rest.
+* Secure Secret Management.
+* MFA.
+* RBAC.
+* ABAC.
+* Audit Logging.
+* Rate Limiting.
+* Input Validation.
+* API Security.
+* Database Security.
+* Backup Encryption.
+* Vulnerability Testing.
+* Penetration Testing Preparation.
+* Incident Response.
+* Disaster Recovery.
+
+PCI DSS kapsamındaki kart verileri uygun sertifikalı sağlayıcı ve altyapı üzerinden işlenmeli.
+
+Hassas verileri loglara yazma.
+
+⸻
+
+35. CLOUD DEPLOYMENT AND PRODUCTION
+
+Ortamları ayır:
+
+1. Development
+2. Testing
+3. Staging
+4. Production
+
+Production:
+
+* Bağımsız cloud sunucusunda çalışmalı.
+* Kalıcı veritabanına bağlanmalı.
+* Gerçek domain üzerinden erişilebilmeli.
+* SSL sertifikasına sahip olmalı.
+* Otomatik yedeklenmeli.
+* İzlenebilmeli.
+* Güncellenebilmeli.
+* Gerekirse eski sürüme döndürülebilmeli.
+
+CI/CD, migration ve rollback sistemi oluştur.
+
+Domain, hosting, veritabanı ve API anahtarları için gerekli yapılandırmaları hazırla.
+
+Benim manuel olarak yapmam gereken hesap, bağlantı ve yetkilendirme işlemlerini ayrı bir listede göster.
+
+⸻
+
+36. UYGULAMA SAYFA HARİTASI
+
+Aşağıdaki ekranların tamamını oluştur.
+
+Müşteri mobil uygulaması
+
+* Splash Screen
+* Onboarding
+* Login
+* Register
+* Identity Verification
+* Home
+* Accounts
+* Account Details
+* Add Money
+* Withdraw
+* Transfer
+* Beneficiaries
+* Payments
+* Cards
+* Card Details
+* Card Controls
+* Exchange
+* Savings
+* Loans
+* Statements
+* Analytics
+* Notifications
+* Profile
+* Security
+* Support
+* Settings
+
+İşletme uygulaması
+
+* Business Overview
+* Company Accounts
+* Team
+* Employee Permissions
+* Corporate Cards
+* Bulk Payments
+* Invoices
+* Cash Flow
+* Reports
+* Company Settings
+
+Merchant / POS uygulaması
+
+* Merchant Dashboard
+* Terminal List
+* POS Payments
+* Payment Requests
+* Refunds
+* Settlements
+* Transactions
+* Merchant Reports
+* Terminal Settings
+
+Yönetici uygulaması
+
+* Admin Dashboard
+* Customer Management
+* Business Management
+* Employee Management
+* Account Management
+* Card Management
+* Payment Monitoring
+* Transfer Monitoring
+* POS Management
+* Merchant Management
+* Compliance
+* Risk
+* Reports
+* Audit Logs
+* Provider Integrations
+* System Settings
+
+Her ekranın kendi işlevi ve navigasyonu olmalı.
+
+⸻
+
+37. GERÇEK ÇALIŞAN BUTONLAR VE İŞLEMLER
+
+Önemli bir kural:
+
+Hiçbir buton sadece görsel amaçlı oluşturulmayacak.
+
+Örnek:
+
+* Send butonu transfer akışını başlatmalı.
+* Add Money butonu para yatırma akışını açmalı.
+* Cards butonu kart ekranına gitmeli.
+* Freeze Card kart sağlayıcısına uygun işlem talebi göndermeli.
+* Exchange döviz dönüşüm akışını açmalı.
+* Download Statement gerçek dosya oluşturmalı.
+* Notifications bildirim ekranını açmalı.
+* Profile kullanıcı profilini açmalı.
+* Settings ayar ekranına gitmeli.
+* Support destek talebi oluşturabilmeli.
+
+Gerçek sağlayıcı bağlantısı yoksa ilgili işlem açıkça sandbox, test veya provider connection required olarak işaretlenmeli.
+
+⸻
+
+38. TEST VE KALİTE KONTROL
+
+Uygulamayı tamamladıktan sonra kapsamlı test yap.
+
+Mobil testler:
+
+* iPhone boyutları.
+* Android boyutları.
+* Küçük ekran.
+* Büyük ekran.
+* Tablet.
+
+Masaüstü testleri:
+
+* Windows.
+* Mac.
+* Farklı tarayıcılar.
+* Farklı çözünürlükler.
+
+Fonksiyon testleri:
+
+* Kayıt.
+* Giriş.
+* Çıkış.
+* Profil.
+* Hesap.
+* Kart.
+* Transfer.
+* Ödeme.
+* Bildirim.
+* Yönetici yetkisi.
+* Müşteri izolasyonu.
+* Gerçek zamanlı güncelleme.
+* Dosya indirme.
+* Veritabanı kalıcılığı.
+* Sunucu yeniden başlatma.
+* Yedekten geri yükleme.
+
+Ayrıca:
+
+* API testleri.
+* Database testleri.
+* Security testleri.
+* Permission testleri.
+* Concurrent transaction testleri.
+* Performance testleri.
+
+⸻
+
+39. TASARIM KALİTE STANDARDI
+
+Bütün uygulama profesyonel bir dijital bankacılık ürünü gibi görünmeli.
+
+Şunları kesinlikle yapma:
+
+* Basit HTML sayfası üretme.
+* Rastgele butonları yan yana dizme.
+* Her modülü farklı tasarlama.
+* Mobil görünümü masaüstü sayfasının küçültülmüş hali yapma.
+* Gereksiz boş ekranlar oluşturma.
+* Emojileri profesyonel ikon yerine kullanma.
+* Her sayfada farklı renk kullanma.
+* Çalışmayan buton bırakma.
+* Her şeyi tek bir uzun dashboard içine doldurma.
+* Sadece ana ekranı tasarlayıp diğer modülleri boş bırakma.
+* Sahte verileri gerçek banka verisi gibi gösterme.
+* Backend olmadan gerçek finansal sistem hazırmış gibi davranma.
+
+Tüm ekranlar birbirine bağlı, tutarlı ve profesyonel olacak.
+
+⸻
+
+40. GELİŞTİRME SIRASI
+
+Projeyi şu sırayla uygula:
+
+AŞAMA 1 – ÜRÜN VE TASARIM
+
+* Marka kimliği.
+* Design system.
+* Mobil uygulama.
+* Masaüstü uygulama.
+* Tablet uyumu.
+* Navigasyon.
+* Bütün ekranların tasarımı.
+
+AŞAMA 2 – TEMEL ALTYAPI
+
+* Backend.
+* Database.
+* Authentication.
+* User management.
+* Tenant isolation.
+* Roles and permissions.
+* Real-time infrastructure.
+
+AŞAMA 3 – FİNANSAL ÇEKİRDEK
+
+* Core Banking.
+* Wallet.
+* Ledger.
+* Balance.
+* Transactions.
+* Reconciliation.
+* Fund safeguarding architecture.
+
+AŞAMA 4 – BANKACILIK MODÜLLERİ
+
+* Accounts.
+* IBAN.
+* Cards.
+* Transfers.
+* FX.
+* Savings.
+* Loans.
+* Business Banking.
+
+AŞAMA 5 – ÖDEME VE TİCARİ SİSTEM
+
+* POS.
+* Merchants.
+* Payment Gateway.
+* ATM.
+* QR Payments.
+* Settlement.
+
+AŞAMA 6 – GÜVENLİK VE YÖNETİM
+
+* KYC/KYB.
+* AML.
+* Fraud.
+* Admin.
+* Audit.
+* Reporting.
+* Support.
+
+AŞAMA 7 – CLOUD VE PRODUCTION
+
+* Cloud deployment.
+* Domain.
+* SSL.
+* Database deployment.
+* CI/CD.
+* Backup.
+* Monitoring.
+* Production configuration.
+
+AŞAMA 8 – TEST VE TESLİM
+
+* Uçtan uca testler.
+* Mobil testler.
+* Masaüstü testleri.
+* Güvenlik testleri.
+* Gerçek zamanlı senkronizasyon.
+* Entegrasyon raporları.
+* Eksiklerin tamamlanması.
+
+Bu aşamalar tek bir ürünün geliştirme sırasıdır. Birbirinden kopuk ayrı uygulamalar oluşturma.
+
+⸻
+
+41. SON TESLİM VE KABUL ŞARTLARI
+
+Projeyi tamamladığında aşağıdaki teslimleri sun:
+
+1. Tamamlanmış mobil uygulama arayüzü.
+2. Tamamlanmış masaüstü arayüzü.
+3. Tablet uyumlu arayüz.
+4. Merkezi backend.
+5. Kalıcı veritabanı.
+6. Gerçek zamanlı senkronizasyon.
+7. Kullanıcı ve yetki sistemi.
+8. Core Banking mimarisi.
+9. Ledger sistemi.
+10. Kart yönetim modülü.
+11. Visa/Mastercard/TROY entegrasyon hazırlığı.
+12. POS ve merchant modülü.
+13. Transfer ve ödeme modülleri.
+14. Super Admin paneli.
+15. KYC/AML ve güvenlik modülleri.
+16. API ve provider entegrasyon altyapısı.
+17. Test raporu.
+18. Cloud deployment raporu.
+19. Eksik dış bağlantılar listesi.
+20. Production hazırlık durumu.
+
+Her modül için şu durumları belirt:
+
+* Implemented
+* Tested
+* Connected
+* Sandbox Only
+* Requires Provider
+* Requires Contract
+* Requires License
+* Requires Certification
+* Production Authorized
+* Production Active
+
+Gerçekten yapılmayan bir işi tamamlandı olarak işaretleme.
+
+⸻
+
+42. SON VE EN ÖNEMLİ TALİMAT
+
+Şimdi bu projeyi baştan sona profesyonel bir yazılım ürünü olarak ele al.
+
+Önce mevcut projeyi incele. Dağınık, eksik veya yalnızca görsel olarak hazırlanmış parçaları tespit et.
+
+Ardından tek bir design system, tek bir uygulama mimarisi ve tek bir merkezi backend altında bütün sistemi birleştir.
+
+ÖNCELİKLİ TASARIM HEDEFİ:
+
+Telefon ekranında açıldığında Revolut kalitesinde modern bir dijital bankacılık uygulaması gibi görünmeli.
+
+Bilgisayarda açıldığında profesyonel bir masaüstü bankacılık uygulamasına dönüşmeli.
+
+ÖNCELİKLİ TEKNİK HEDEF:
+
+Her cihaz aynı merkezi backend ve kalıcı veritabanına bağlanmalı. Bir yerde yapılan değişiklik yetkili kullanıcıların ekranlarında gerçek zamanlı görünmeli.
+
+ÖNCELİKLİ GÜVENLİK HEDEFİ:
+
+Her kullanıcı yalnızca kendi hesabına ve yetkili olduğu alanlara erişebilmeli. Müşteri verileri ve finansal kayıtlar birbirine karışmamalı.
+
+ÖNCELİKLİ GELİŞTİRME HEDEFİ:
+
+Bana yalnızca bir plan, tasarım açıklaması, ekran görüntüsü veya örnek HTML verme. Mevcut proje dosyalarında gerçek geliştirmeyi gerçekleştir. Çalışan ekranları, işlevleri, backend’i, veritabanını ve entegrasyon altyapısını oluştur.
+
+Herhangi bir dış hesap, API anahtarı, domain, lisans, sağlayıcı sözleşmesi veya onay gerekiyorsa bunu açıkça belirt. Bu bağlantıların varmış gibi davranma.
+
+Sonuç olarak istediğim ürün:
+
+PRO DNZ FINTECH
+
+ONE PLATFORM. ONE SECURE SYSTEM. EVERY DEVICE. REAL-TIME BANKING.
+
+Profesyonel tasarıma sahip, mobil ve masaüstünde ayrı ayrı optimize edilmiş, merkezi altyapıyla çalışan, güvenli, ölçeklenebilir ve üretime hazırlanmış eksiksiz bir dijital finans platformudur.

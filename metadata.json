@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix PRO MONEY",
+  "description": "Banka sistemi",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
